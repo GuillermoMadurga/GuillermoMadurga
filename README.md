@@ -14,9 +14,9 @@ Experiencia en ventas en una startup de análisis deportivo con IA, haciendo dem
 
 | Proyecto | Qué es | Tecnología |
 |---|---|---|
-| [Gestor de entrenamientos](https://github.com/Madurga1/Actividad-evaluable-2-trimestre-Fundamentos) | App de consola con usuarios, sesiones e historial de carreras con ritmo por km | C# / .NET 9 |
-| [Gestión de vehículos](https://github.com/Madurga1/EjercicioVehiculos_ExamenOrdinaria_1_Programacion) | Modelo POO con clase abstracta, herencia y polimorfismo | Java |
-| [Blog de viajes](https://github.com/Madurga1/2--Actividad-evaluable-Lenguaje-de-Marcas) | Maqueta responsive hecha con Flexbox | HTML / CSS |
+| [Gestor de entrenamientos](https://github.com/GuillermoMadurga/Actividad-evaluable-2-trimestre-Fundamentos) | App de consola con usuarios, sesiones e historial de carreras con ritmo por km | C# / .NET 9 |
+| [Gestión de vehículos](https://github.com/GuillermoMadurga/EjercicioVehiculos_ExamenOrdinaria_1_Programacion) | Modelo POO con clase abstracta, herencia y polimorfismo | Java |
+| [Blog de viajes](https://github.com/GuillermoMadurga/2--Actividad-evaluable-Lenguaje-de-Marcas) | Maqueta responsive hecha con Flexbox | HTML / CSS |
 
 ### Contacto
 
