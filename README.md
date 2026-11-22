@@ -2,7 +2,7 @@
 
 Estudio **Desarrollo de Aplicaciones Web (DAW)** en la Universidad Europea, en Madrid.
 
-Antes trabajé en ventas en una startup de análisis deportivo con IA, haciendo demos de software a clubes. De ahí vengo con la costumbre de entender qué necesita el usuario antes de ponerme a programar.
+Experiencia en ventas en una startup de análisis deportivo con IA, haciendo demos de software a clubes. De ahí vengo con la costumbre de entender qué necesita el usuario antes de ponerme a programar.
 
 🎯 **Busco prácticas como desarrollador web.**
 
