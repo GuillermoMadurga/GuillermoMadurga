@@ -20,4 +20,4 @@ Experiencia en ventas en una startup de análisis deportivo con IA, haciendo dem
 
 ### Contacto
 
-gmadurgadetoledo@gmail.com
+[LinkedIn](https://www.linkedin.com/in/guillermo-madurga-de-toledo-80536023b) · gmadurgadetoledo@gmail.com
